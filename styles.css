@@ -1,0 +1,22 @@
+body {
+  margin: 20px;
+}
+
+.card {
+  width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  display: flex;
+  justify-content: space-around;
+  font-family: "Courier New", Courier, monospace;
+  text-align: center;
+  color: #2b2839;
+  background-color: #c1bddb;
+  border-bottom: 6px solid #ff99c9;
+  border-radius: 10px;
+  box-shadow: 10px 10px 10px lightgray;
+}
+
+.profile-pic {
+  width: 150px;
+}
